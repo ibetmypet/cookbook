@@ -1,3 +1,5 @@
 # Såser
 
-Recept läggs till här efter hand.
+## Recept
+
+- [[Majonnäs]] – klassisk emulsion med handvispad metod och stavmixermetod
