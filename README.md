@@ -5,6 +5,7 @@ En personlig, versionshanterad kokbok byggd för [Obsidian](https://obsidian.md/
 ## Struktur
 
 - [[Recept/Index|Recept]] – färdiga recept sorterade efter kategori
+- [[Råvaror/Index|Råvaror]] – råvarukunskap, styckdetaljer, smak, struktur och användning
 - [[Näring/Index|Näring]] – metod och underlag för kalorier och makron
 - [[Tekniker/Index|Tekniker]] – metoder, temperaturer och kökskunskap
 - [[Ratios/Index|Ratios]] – grundförhållanden som gör recept skalbara
@@ -19,7 +20,7 @@ En personlig, versionshanterad kokbok byggd för [Obsidian](https://obsidian.md/
 2. Lägg receptet i rätt undermapp under `Recept/`.
 3. Dokumentera använda vikter när näringsvärden ska beräknas.
 4. Väg den färdiga satsen och räkna per 100 g eller per matlåda.
-5. Länka till relevanta tekniker, ratios, tillbehör, menyer och event med Obsidian-länkar.
+5. Länka till relevanta råvaror, tekniker, ratios, tillbehör, menyer och event med Obsidian-länkar.
 6. Uppdatera receptets anteckningar efter att det har lagats.
 7. Commit:a förbättringarna till Git.
 
