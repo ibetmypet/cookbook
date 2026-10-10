@@ -11,8 +11,8 @@ metoder: [vikning, kalljäsning, hög hydrering, ugnsbakning]
 ratios: [bagarprocent]
 näringsberäknad: false
 taggar: [focaccia, italienskt, tipo-00, torrjäst, bröd]
-status: utkast
-senast_lagad:
+status: testat
+senast_lagad: 2026-10-10
 ---
 
 # Focaccia med tipo 00 och torrjäst
@@ -101,4 +101,10 @@ Hög hydrering och försiktig hantering hjälper till att ge ett öppet, luftigt
 
 ## Tillagningslogg
 
-Receptet är ännu inte markerat som testat.
+### 2026-10-10
+
+- Resultat: Väldigt bra.
+- Särskilt lyckat: Saltlagen samlades i de djupa groparna efter fingrarna och gav ett mycket uppskattat resultat.
+- Ändringar: Inga dokumenterade.
+- Betyg: Mycket lyckat.
+
