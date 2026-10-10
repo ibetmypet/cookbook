@@ -103,7 +103,7 @@ Hög hydrering och försiktig hantering hjälper till att ge ett öppet, luftigt
 
 ### 2026-10-10
 
-- Resultat: Väldigt bra.
+- Resultat: Väldigt bra. Bakad samma dag med snabbjäsningsmetoden (7 g torrjäst enligt receptet).
 - Särskilt lyckat: Saltlagen samlades i de djupa groparna efter fingrarna och gav ett mycket uppskattat resultat.
 - Ändringar: Inga dokumenterade.
 - Betyg: Mycket lyckat.
